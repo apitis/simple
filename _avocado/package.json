@@ -1,0 +1,25 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "Simple Capital",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "jekyll serve",
+    "predeploy": "JEKYLL_ENV=production jekyll build",
+    "deploy": "gh-pages -d _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apitis/simple.git"
+  },
+  "author": "Andrei Pitis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apitis/simple/issues"
+  },
+  "homepage": "https://github.com/apitis/simple#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
