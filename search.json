@@ -1,17 +1,6 @@
 [
   
     {
-      "category" : "jekyll, update",
-      "title"    : "Welcome to Jekyll!",
-      "description": "You’ll find this post in your _posts directory. Go ahead and edit it and re-b...",
-      "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-b...",
-      "url"      : "/simple/blog/welcome-to-jekyll/",
-      "image"    : "/simple",
-      "author"   : ""
-    } 
-    ,
-  
-    {
       "category" : "work",
       "title"    : "Avocado Theme",
       "description": "Bored of the same old website designs? Avocado theme presents a unique way to...",
